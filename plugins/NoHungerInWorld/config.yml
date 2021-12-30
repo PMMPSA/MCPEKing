@@ -1,0 +1,8 @@
+---
+#### No Hunger Plugin Config ####
+# You can add more than one world!
+worlds:
+- world
+- hub
+- sb
+...

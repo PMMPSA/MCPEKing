@@ -1,0 +1,9 @@
+﻿name: BuyEnchant
+main: buyec\Main
+version: 1.0
+api: 2.0.0
+commands:
+  buyec:
+    description: mua enchant (gia 1000VND moi cap)
+  listec:
+    description: danh sach enchantment

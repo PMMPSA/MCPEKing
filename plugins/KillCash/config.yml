@@ -1,0 +1,6 @@
+﻿---
+enable: "true"
+economy-plugin: EconomyAPI
+money: 500VND
+message: You earn {money} coins
+...

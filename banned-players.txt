@@ -1,0 +1,5 @@
+# Updated 08/02/17 21:38 by PocketMine-MP-DerivedVersion 1.6.2dev
+# victim name | ban date | banned by | banned until | reason
+
+acehuy|2017-08-02 21:27:04 +0800|KNMiner|Forever|Banned by an operator.
+steve|2017-08-02 21:38:31 +0800|hanamy|Forever|Banned by an operator.

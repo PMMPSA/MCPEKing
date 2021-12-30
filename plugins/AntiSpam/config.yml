@@ -1,0 +1,30 @@
+﻿---
+#time trong vài giây người chơi phải đợi để gửi tin nhắn một lần nữa
+thời gian: 1
+#max cảnh báo người chơi sẽ nhận được cho đến khi họ nhận được một loại khối
+max_warnings: 2
+#warn player mỗi lần họ spam
+warning_message: "& ePlease ngừng trò chuyện quá nhanh! & cWarnings: & 6% cảnh báo%"
+# Bạn muốn loại khối nào?
+#Types: message, mute, kick, ban, ban-ip
+block_type: kick
+#how nhiều thời gian nên người chơi phải tắt tiếng (tính bằng giây)
+mute_time: 60
+# ghi chú khi người chơi bị tắt tiếng
+mute_message: "& cBạn đã bị tắt tiếng vì spam."
+# nhắn tin khi người chơi vẫn im lặng
+muted_message: "& eBạn vẫn im lặng."
+un-muted_message: "& a Bạn đã được phát âm! & bKhông phải là spam, hoặc bạn sẽ bị tắt tiếng một lần nữa."
+# Lý do tại sao người chơi bị đá
+#% player% = tên người chơi
+kick_reason: "& cBạn đã bị đá vì spam."
+# Lý do tại sao người chơi bị cấm
+#% player% = tên người chơi
+ban_reason: "& 4Bạn đã bị cấm spam!"
+# Lý do tại sao người chơi bị cấm bởi ip
+#% player% = tên người chơi
+ip_ban_reason: "& 4Bạn đã bị ip cấm spam!"
+# tin nhắn sẽ được gửi nếu người chơi đang gửi thư rác
+#% player% = tên người chơi
+tin nhắn: "& a Hãy để những người khác trò chuyện, cảm ơn bạn :)"
+..

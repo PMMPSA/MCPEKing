@@ -1,0 +1,20 @@
+﻿---
+prefix: "Broadcaster"
+suffix: "[A]"
+time: 15
+sendmessage-format: "&e[{TIME}] &b[{PREFIX}] {SUFFIX} &a{SENDER}&e>&f {MESSAGE} &e[=-={MCPE PRO}=-=]"
+datetime-format: "H:i:s"
+broadcast-enabled: true
+messages:
+ - "[==§l§eKING-MCPE§r==]§3Hãy chơi server vào những giờ rảnh rỗi!"
+ -"[==§l§eKING-MCPE§r==]§3Ủng Hộ Server bằng cách vote (/vote) để Nhận được quà hấp dẫn nhé!"
+ - "[==§l§eKING-MCPE§r==]§3Hãy Nạp Thẻ Tại /napthe hoặc tại link…"
+popup-time: 15
+popup-duration: 5
+sendpopup-format: "&a{SENDER}&e>>&f {MESSAGE}"
+popup-broadcast-enabled: true
+popups:
+ - "&3Bạn Đang chơi Server §l§eKING-MCPE"
+ - "§3§lNạp thẻ để nhận quà nhé!"
+ - "&b&eBạn có thể vote để nhận quà"
+...

@@ -1,0 +1,27 @@
+# SimpleAuth 1.4.0 language file
+
+join:
+ message1: "§r\n          §a|§c♦§a|§b MCPE PRO§a |§c♦§a|§r\n•§e Lời Nhắn§r\n•§e Lời Nhắn 2§r\n•§e Lời Nhắn3"
+ message2: ""
+ register: "§r•§ecách đăng kí:nhập mật khẩu 2 lần"
+ login: "§r•§ecách đăng nhập:nhập mật khẩu"
+ popup: "§r•§eBạn Cần Đăng Nhập"
+
+register:
+ usage: "/register <password>"
+ description: "Bạn cần đăng kí 1 tài khoản"
+ permission: "bạn không được phép sử dụng lệnh"
+ error:
+  password: "Mật Khẩu này quá ngắn"
+  registered: "Acc này chưa được đăng kí."
+  general: "."
+
+login:
+ usage: "/login <password>"
+ description: "Đăng nhập vào tài khoản"
+ permission: "bạn không được phép sử dụng lệnh!"
+ success: "Đăng Nhập Thành Công."
+ error:
+  password: "Sai Mật Khẩu!"
+  registered: "Tài khoản này chưa được đăng ký"
+  block: "Too many tries!"

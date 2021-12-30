@@ -1,0 +1,18 @@
+---
+show-prefix: true
+show-messages-onjoin: true
+force-hub: false
+enable-hub-message: true
+hub-message: Chào mừng Bạn đến Hub, {PLAYER}
+force-spawn: false
+enable-spawn-message: true
+spawn-message: Dịch Chuyển Đến {WORLD} Spawn
+enable-aliases: true
+hub:
+  world: world
+  X: 255.920000
+  "Y": 5.000000
+  Z: 256.165200
+  Yaw: 0
+  Pitch: 29
+...

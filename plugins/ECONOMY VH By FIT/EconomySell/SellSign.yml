@@ -1,0 +1,7 @@
+---
+sell:
+-  §f[§1§lBán Đồ§r§f]
+- '§fGiá Tiền: §e%1 %MONETARY_UNIT%'
+- '§fĐồ: §e%2'
+- '§fSố lượng : §e§l%3'
+...
